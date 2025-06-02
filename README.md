@@ -111,7 +111,7 @@ If you encounter any bugs, have questions, or wish to suggest new features, plea
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-*(If you haven't created a `LICENSE` file yet, please do so in the root of your project. A common choice is the MIT License, which is permissive and widely used.)*
+**
 
 ---
 
