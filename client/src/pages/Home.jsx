@@ -590,7 +590,7 @@ function Home() {
                 </div>
                 <p className="mt-6 text-sm md:text-base font-semibold text-purple-900 flex items-center justify-center">
                     <FaCopyright className="mr-2" aria-hidden="true" /> 
-                    2025 Om Ranjan. All rights reserved.
+                    2025 Consumer Insights. All rights reserved.
                 </p>
             </motion.footer>
         </div>
